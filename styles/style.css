@@ -1,0 +1,128 @@
+h1{
+    color: #a871ff;
+}
+
+#mydivone {
+  position: absolute;
+  left: 10px;
+  z-index: 9;
+  /* background-color: #f1f1f1; */
+  /* border: 1px solid #d3d3d3; */
+  /* text-align: center; */
+}
+
+#mydivheaderone {
+  /* padding: 10px; */
+  cursor: move;
+  z-index: 10;
+  /* background-color: #2196F3; */
+  /* color: #fff; */
+}
+
+#mydivtwo {
+    position: absolute;
+    z-index: 9;
+    left: 200px;
+
+    /* background-color: #f1f1f1; */
+    /* border: 1px solid #d3d3d3; */
+    /* text-align: center; */
+}
+
+#mydivheadertwo {
+    /* padding: 10px; */
+    cursor: move;
+    z-index: 10;
+    /* background-color: #2196F3; */
+    /* color: #fff; */
+}
+
+#mydivthree {
+    position: absolute;
+    z-index: 9;
+    left: 400px;
+
+    /* background-color: #f1f1f1; */
+    /* border: 1px solid #d3d3d3; */
+    /* text-align: center; */
+}
+
+#mydivheaderthree {
+    /* padding: 10px; */
+    cursor: move;
+    z-index: 10;
+    /* background-color: #2196F3; */
+    /* color: #fff; */
+}
+
+#mydivfour {
+    position: absolute;
+    z-index: 9;
+    left: 600px;
+
+    /* background-color: #f1f1f1; */
+    /* border: 1px solid #d3d3d3; */
+    /* text-align: center; */
+}
+
+#mydivheaderfour {
+    /* padding: 10px; */
+    cursor: move;
+    z-index: 10;
+    /* background-color: #2196F3; */
+    /* color: #fff; */
+}
+
+#mydivfive {
+    position: absolute;
+    z-index: 9;
+    top: 400px;
+    left: 10px;
+    /* background-color: #f1f1f1; */
+    /* border: 1px solid #d3d3d3; */
+    /* text-align: center; */
+}
+
+#mydivheaderfive {
+    /* padding: 10px; */
+    cursor: move;
+    z-index: 10;
+    /* background-color: #2196F3; */
+    /* color: #fff; */
+}
+
+#mydivsix {
+    position: absolute;
+    z-index: 9;
+    top: 400px;
+    left: 200px;
+    /* background-color: #f1f1f1; */
+    /* border: 1px solid #d3d3d3; */
+    /* text-align: center; */
+}
+
+#mydivheadersix {
+    /* padding: 10px; */
+    cursor: move;
+    z-index: 10;
+    /* background-color: #2196F3; */
+    /* color: #fff; */
+}
+
+#mydivseven {
+    position: absolute;
+    z-index: 9;
+    top: 400px;
+    left: 400px;
+    /* background-color: #f1f1f1; */
+    /* border: 1px solid #d3d3d3; */
+    /* text-align: center; */
+}
+
+#mydivheaderseven {
+    /* padding: 10px; */
+    cursor: move;
+    z-index: 10;
+    /* background-color: #2196F3; */
+    /* color: #fff; */
+}
