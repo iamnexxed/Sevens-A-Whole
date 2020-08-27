@@ -73,7 +73,7 @@ function RotateImage(event)
 
     // while (event.key == "ArrowLeft" || event.key == "ArrowRight")
     {
-        if (event.key == "ArrowLeft") 
+        if ((event.key == "ArrowLeft") || (event.key == "A") || (event.key == "a"))
         {
             degree+=15;
             console.log(degree);
@@ -123,7 +123,7 @@ function RotateImage(event)
             }
             
         } 
-        else if (event.key == "ArrowRight") 
+        else if ((event.key == "ArrowRight") || (event.key == "D") || (event.key == "d"))
         {
               console.log(image[2].id);
             if (image[2].id == "mydivone") {
